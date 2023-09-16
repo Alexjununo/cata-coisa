@@ -1,7 +1,14 @@
 [package]
 name = "cata-coisa"
 version = "0.1.0"
-edition = "2021"
+authors = ["Alex Pereira <your@email.com>"]
+license = "MIT OR Apache-2.0"
+description = "A tool to search files"
+readme = "README.md"
+homepage = "https://github.com/Alexjununo/cata-coisa"
+repository = "https://github.com/Alexjununo/cata-coisa"
+keywords = ["cli", "search", "demo"]
+categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
